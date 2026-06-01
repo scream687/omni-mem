@@ -3,8 +3,8 @@
 > **"Stop treating your AI like a goldfish. Give it a prefrontal cortex."**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/thedotmack/omni-mem?style=for-the-badge&color=gold)](https://github.com/thedotmack/omni-mem)
-[![God-Tier](https://img.shields.io/badge/Quality-God--Tier-red?style=for-the-badge)](https://github.com/thedotmack/omni-mem)
+[![GitHub Stars](https://img.shields.io/github/stars/scream687/omni-mem?style=for-the-badge&color=gold)](https://github.com/scream687/omni-mem)
+[![God-Tier](https://img.shields.io/badge/Quality-God--Tier-red?style=for-the-badge)](https://github.com/scream687/omni-mem)
 
 ---
 
